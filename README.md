@@ -64,6 +64,7 @@ car : 71.98476791381836
 
 After then you have to check the result in your folder you will get another picture with object detection.
 That's all.
+
  
 
 
